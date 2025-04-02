@@ -1,1 +1,1 @@
-# Exercic-os03-JS
+# Exercicios-03-JS
